@@ -1,4 +1,5 @@
 <?php
+require("ask.php");
 //usage
 echo ask("Input: ")." \n";
 
